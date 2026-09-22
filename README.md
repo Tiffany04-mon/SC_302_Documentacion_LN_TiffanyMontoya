@@ -1,1 +1,6 @@
-# SC_302_Documentacion_LN_TiffanyMontoya
+# SC\_302\_Documentacion\_LN\_TiffanyMontoya
+
+Esta es mi primera práctica con GitHub.
+
+
+
